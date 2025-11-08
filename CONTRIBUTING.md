@@ -23,3 +23,7 @@ Wenn Sie auf ein Problem stoßen, erstellen Sie bitte ein Issue im GitHub-Reposi
 
 ## Verhaltensregeln
 Bitte respektieren Sie andere Mitwirkende und halten Sie sich an die Projektstandards.
+
+## Zusätzliche Hinweise
+- Stellen Sie sicher, dass Ihr Code gut dokumentiert ist.
+- Testen Sie Ihre Änderungen gründlich, bevor Sie eine Pull-Anfrage stellen.
