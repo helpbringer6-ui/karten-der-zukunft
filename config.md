@@ -18,3 +18,4 @@
 
 ## Zusätzliche Hinweise
 - Stelle sicher, dass dein Gerät in einem gut beleuchteten Bereich ist, um optimale Ergebnisse zu erzielen.
+- Es wird empfohlen, die Konfiguration nach jeder Änderung erneut zu testen.
