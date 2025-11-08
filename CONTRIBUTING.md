@@ -16,7 +16,7 @@ Vielen Dank für Ihr Interesse, an "Karten der Zukunft" mitzuarbeiten! Hier sind
    ```bash
    git push origin feature/mein-feature
    ```
-5. Öffnen Sie eine Pull-Anfrage.
+5. Öffnen Sie eine Pull-Anfrage (Pull Request).
 
 ## Berichterstattung von Problemen
 Wenn Sie auf ein Problem stoßen, erstellen Sie bitte ein Issue im GitHub-Repository, damit wir es untersuchen können.
