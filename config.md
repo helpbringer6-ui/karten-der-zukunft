@@ -14,5 +14,7 @@
    npm run test
    ```
 
+4. Überprüfe die Ausgaben des Tests, um sicherzustellen, dass keine Fehler auftreten.
+
 ## Zusätzliche Hinweise
 - Stelle sicher, dass dein Gerät in einem gut beleuchteten Bereich ist, um optimale Ergebnisse zu erzielen.
