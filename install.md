@@ -17,4 +17,4 @@
    npm install
    ```
 
-3. Konfiguriere die AR-Umgebung, indem du die Anweisungen in der `config.md` befolgst.
+3. Konfiguriere die AR-Umgebung, indem du die Anweisungen in der `config.md` befolgst. Stelle sicher, dass alle erforderlichen Einstellungen korrekt vorgenommen werden.
