@@ -1,7 +1,7 @@
 # Installation
 
 ## Voraussetzungen
-- Node.js und npm installiert
+- Node.js und npm installiert (Version 14 oder höher empfohlen)
 - Zugriff auf ein ARKit oder ARCore fähiges Gerät
 
 ## Schritte zur Installation
