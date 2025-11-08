@@ -3,8 +3,8 @@
 Vielen Dank für Ihr Interesse, an "Karten der Zukunft" mitzuarbeiten! Hier sind einige Möglichkeiten, wie Sie helfen können:
 
 ## Wie man beiträgt
-1. Fork das Repository.
-2. Erstelle einen neuen Branch für dein Feature oder Bugfix:
+1. Forken Sie das Repository.
+2. Erstellen Sie einen neuen Branch für Ihr Feature oder Bugfix:
    ```bash
    git checkout -b feature/mein-feature
    ```
