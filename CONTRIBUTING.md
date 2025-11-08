@@ -28,3 +28,4 @@ Bitte respektieren Sie andere Mitwirkende und halten Sie sich an die Projektstan
 - Stellen Sie sicher, dass Ihr Code gut dokumentiert ist.
 - Testen Sie Ihre Änderungen gründlich, bevor Sie eine Pull-Anfrage stellen.
 - Achten Sie darauf, allgemeine Namenskonventionen für Branches zu befolgen, z.B. `feature/` oder `bugfix/`.
+- Verwenden Sie klare und beschreibende Commit-Nachrichten.
